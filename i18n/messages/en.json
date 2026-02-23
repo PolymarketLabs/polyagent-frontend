@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "brand": "POLYAGENT",
+    "funds": "Funds",
+    "myInvestments": "My Investments",
+    "fundManagement": "Fund Management",
+    "roleInvestor": "Investor",
+    "roleManager": "Manager",
+    "roleLabel": "Role: {role}",
+    "languageEnglish": "EN",
+    "languageChinese": "中文"
+  },
+  "wallet": {
+    "connectWallet": "Connect Wallet",
+    "signIn": "Sign In",
+    "signingIn": "Signing In...",
+    "wrongNetwork": "Wrong Network",
+    "walletConnected": "Wallet Connected",
+    "addressMismatch": "Wallet address mismatch detected. Wallet disconnected. Please reconnect and sign in again."
+  }
+}

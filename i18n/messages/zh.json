@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "brand": "POLYAGENT",
+    "funds": "基金列表",
+    "myInvestments": "我的投资",
+    "fundManagement": "基金管理",
+    "roleInvestor": "投资人",
+    "roleManager": "基金经理",
+    "roleLabel": "角色: {role}",
+    "languageEnglish": "EN",
+    "languageChinese": "中文"
+  },
+  "wallet": {
+    "connectWallet": "连接钱包",
+    "signIn": "签名登录",
+    "signingIn": "签名中...",
+    "wrongNetwork": "网络错误",
+    "walletConnected": "钱包已连接",
+    "addressMismatch": "检测到钱包地址与登录返回不一致，已断开钱包。请重新连接并登录。"
+  }
+}
